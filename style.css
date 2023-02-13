@@ -1,0 +1,19 @@
+body {
+    background-color: blueviolet;
+}
+
+.BARRA-DE-TOPICOS-A {
+    display: flex;
+    justify-content: space-evenly;
+}
+.BARRA-DE-TOPICOS-A ul {
+    list-style: none;
+    display: flex;
+}
+.BARRA-DE-TOPICOS-A li {
+    padding: 5%;
+}
+.BARRA-DE-TOPICOS-A a {
+    text-decoration: none;
+    color: aliceblue;
+}
